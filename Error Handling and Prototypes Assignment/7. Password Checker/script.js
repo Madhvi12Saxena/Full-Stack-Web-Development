@@ -18,7 +18,7 @@ class User {
   }
   
   // Instantiate an instance of the User class
-  const user = new User("john_doe", "Pass1234");
+  const user = new User("msd_vk", "Pass1234");
   
   // Get the password (masked)
   console.log(user.password); // Output: ********
