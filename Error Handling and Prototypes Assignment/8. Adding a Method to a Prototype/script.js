@@ -7,8 +7,8 @@ function Student(name) {
   };
   
   // Instantiate a Student object
-  const student = new Student("Mithun");
+  const student = new Student("Sonal");
   
   // Call the printDetails method
-  student.printDetails(); // Output: Hello, my name is Mithun
+  student.printDetails(); // Output: Hello, my name is Sonal
   
