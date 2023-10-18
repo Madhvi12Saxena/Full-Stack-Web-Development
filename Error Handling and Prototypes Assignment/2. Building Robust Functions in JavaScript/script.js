@@ -9,8 +9,8 @@ function getPerson(person) {
       return error.message;
     }
   }
-  const person1 = { name: "Mithun", age: 20 };
-  console.log(getPerson(person1)); // Output: Name: John Doe, Age: 25
+  const person1 = { name: "MS", age: 18 };
+  console.log(getPerson(person1));
   
   const person2 = { name: "Jane Smith" };
   console.log(getPerson(person2)); // Output: Invalid parameter type
