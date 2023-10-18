@@ -12,9 +12,9 @@ function getPerson(person) {
   const person1 = { name: "MS", age: 18 };
   console.log(getPerson(person1));
   
-  const person2 = { name: "Jane Smith" };
+  const person2 = { name: "SS" };
   console.log(getPerson(person2)); // Output: Invalid parameter type
   
-  const person3 = "John";
+  const person3 = "HS";
   console.log(getPerson(person3)); // Output: Invalid parameter type
     
