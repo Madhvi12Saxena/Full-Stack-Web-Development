@@ -1,6 +1,6 @@
 const person = {
-    name: "Mithun",
-    age: 21,
+    name: "MS",
+    age: 18,
     address: {
       street: "B8, Block B, Industrial Area.",
       city: "Sector 62, Noida",
